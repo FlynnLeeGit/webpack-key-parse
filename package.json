@@ -1,6 +1,6 @@
 {
   "name": "webpack-key-parse",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "scripts": {
     "dev": "cd demos && webpack-dev-server --progress --inline --hot",
     "dist": "rollup -c build/rollup.config.js"
